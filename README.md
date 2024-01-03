@@ -1,6 +1,6 @@
 <strong><i>Eii</i></strong> 👋
 
-Me chamo Cynthia e sou estudante de Sistemas de Informação pelo CEFET/RJ. Atualmente atuo como Desenvolvedora júnior de PHP.
+Me chamo Cynthia e sou estudante de Sistemas de Informação pelo CEFET/RJ. Atualmente atuo como Desenvolvedora Backend. 
 
 <strong><i>Algumas das tecnologias sobre as quais possuo conhecimento...</i></strong>
 
