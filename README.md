@@ -2,7 +2,7 @@
 
 Me chamo Cynthia e sou estudante de Sistemas de Informação pelo CEFET/RJ. Atualmente atuo como Desenvolvedora Backend. 
 
-<strong><i>Algumas das tecnologias sobre as quais possuo conhecimento...</i></strong>
+<strong><i>Algumas das tecnologias sobre as quais possuo conhecimento: </i></strong>
 
  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
  
